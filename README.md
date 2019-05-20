@@ -4,7 +4,7 @@ Instructor: Prof. Josh Gordon
 Team: Beichun Qi (bq2139), Boxi Xia (bx2150)
 
 #### [Video demo and code walkthrough](https://youtu.be/zNceQO2JufE)
-#### [Presentation slide](https://docs.google.com/presentation/d/1Yye1DRUDKNhzQajRYWWpdWxQ2qzykBneF6fVFpErjPA/edit?usp=sharing)
+#### [Presentation slide](https://docs.google.com/presentation/d/1cr5YLsgH_RgjFtjSHn1h_C9uAYCYLqixkGY_dGliKzg/edit?usp=sharing)
 #### [Github repository: /bq2139/medical-imaging-project](https://github.com/bq2139/medical-imaging-project)
 
 ## Project Overview
