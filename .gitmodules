@@ -1,0 +1,3 @@
+[submodule "keras-octconv"]
+	path = keras-octconv
+	url = https://github.com/titu1994/keras-octconv.git
